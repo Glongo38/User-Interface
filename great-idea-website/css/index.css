@@ -81,29 +81,51 @@ h1, h2, h3, h4, h5 {
 	padding-left: 25%;
 	padding-top: 10px;
 }
-.sec2Div1{
-	width: 500px;
-	padding-top: 10%;
-	border:1pt solid black;
+.middleContainer > div {
+	display: table-cell;
+	border: 1pt solid black;
+	
+	
 }
-.sec2Div1 h1{
-	font-size: 40pt;
-	border:1pt solid black;
+.middleContainer{
+	width: 800px;
+	height: 800px;
+	margin-left: 20%;
+}
+.middleDivLeftCase{
+	
+	
+
+}
+.middleDivRightCase{
+	
+}
+.middleDivLeft {
+	height: 200px;
+	width: 400px;
 	
 	text-align: center;
-	padding-bottom: 40px;;
 }
-.sec2Div1 a{
+.middleDivLeft a {
 	text-decoration: none;
 	border: 1pt solid black;
-	padding-left: 2pt;
-	padding-right: 2pt;
+	padding-left: 4pt;
+	padding-right: 4pt;
 }
-.sec2Div1 img {
+.middleDivRight {
+	padding-left: 30pt;
+	height: 800px;
+	
+}
+
+#centerPic {
+	border: 1pt solid black;
 	
 	
-	border:1pt solid black;
-	
+}
+.mainHead{
+	font-size: 40pt;
+	border: 1pt solid black;
 }
 .sectionMain3{
 	border-top: 1pt solid black;
