@@ -64,3 +64,93 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.navBar1{
+	display: inline-block;
+	padding-left: 30px;
+	padding-top: 35px;
+}
+.navBar1 a{
+	color:pink;
+	text-decoration: none;
+	padding-left:30px;
+	padding-right: 30px;
+	display: inline-block;
+	
+}
+.topDiv1 img{
+	padding-left: 25%;
+	padding-top: 10px;
+}
+.middleContainer {
+	display: inline-block;
+	width: 800px;
+	margin-left: 20%;
+	padding-bottom: 40px;
+	padding-top: 30px;
+	
+}
+
+.middleDivLeft {
+	width: 400px;
+	height: fit-content;
+	text-align: center;
+	display: inline-block;
+	padding-right: 30px;
+}
+.middleDivLeft a {
+	text-decoration: none;
+	padding-left: 4pt;
+	padding-right: 4pt;
+	border: 1pt solid black;
+}
+.middleDivRight {
+	padding-top: 30px;
+	display: inline-block;
+	
+	
+}
+.mainHead{
+	font-size: 60pt;
+	
+}
+.sectionMain3{
+	border-top: 1pt solid black;
+	border-bottom: 1pt solid black;
+}
+.box {
+	display: inline-block;
+	
+}
+.box1 {
+	
+	width: 600px;
+	margin-left: 30px;
+}
+.box2 {
+	
+	width: 600px;
+	margin-left: 20px;
+	
+}
+.middle-img {
+	margin-left:  30px;
+	padding-top: 10px;
+	width: 90%;
+}
+.box3{
+	width: 400px;
+	margin-left: 30px;
+}
+.box4 {
+	width: 400px;
+}
+.box5 {
+	width: 400px;
+}
+footer {
+	padding-top: 20px;
+}
+#Copyright {
+	text-align: center;
+}
+/*Project Complete*/
