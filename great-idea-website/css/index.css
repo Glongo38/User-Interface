@@ -117,3 +117,39 @@ h1, h2, h3, h4, h5 {
 	border-top: 1pt solid black;
 	border-bottom: 1pt solid black;
 }
+.box {
+	display: inline-block;
+	
+}
+.box1 {
+	
+	width: 600px;
+	margin-left: 30px;
+}
+.box2 {
+	
+	width: 600px;
+	margin-left: 20px;
+	
+}
+.middle-img {
+	margin-left:  30px;
+	padding-top: 10px;
+	width: 90%;
+}
+.box3{
+	width: 400px;
+	margin-left: 30px;
+}
+.box4 {
+	width: 400px;
+}
+.box5 {
+	width: 400px;
+}
+footer {
+	padding-top: 20px;
+}
+#Copyright {
+	text-align: center;
+}
