@@ -81,51 +81,37 @@ h1, h2, h3, h4, h5 {
 	padding-left: 25%;
 	padding-top: 10px;
 }
-.middleContainer > div {
-	display: table-cell;
-	border: 1pt solid black;
-	
-	
-}
-.middleContainer{
+.middleContainer {
+	display: inline-block;
 	width: 800px;
-	height: 800px;
 	margin-left: 20%;
+	padding-bottom: 40px;
+	padding-top: 30px;
+	
 }
-.middleDivLeftCase{
-	
-	
 
-}
-.middleDivRightCase{
-	
-}
 .middleDivLeft {
-	height: 200px;
 	width: 400px;
-	
+	height: fit-content;
 	text-align: center;
+	display: inline-block;
+	padding-right: 30px;
 }
 .middleDivLeft a {
 	text-decoration: none;
-	border: 1pt solid black;
 	padding-left: 4pt;
 	padding-right: 4pt;
+	border: 1pt solid black;
 }
 .middleDivRight {
 	padding-top: 30px;
-	height: 800px;
-	
-}
-
-#centerPic {
-	border: 1pt solid black;
+	display: inline-block;
 	
 	
 }
 .mainHead{
-	font-size: 40pt;
-	border: 1pt solid black;
+	font-size: 60pt;
+	
 }
 .sectionMain3{
 	border-top: 1pt solid black;
